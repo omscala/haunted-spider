@@ -1,0 +1,158 @@
+Interview 01 — Chief Strategy Officer
+
+Interview objective: Strategic rationale for entering new healthcare markets
+
+Transcript status: Fictional practice transcript created for the hackathon; statements require validation.
+
+Interviewer: What is the strategic reason for considering this acquisition rather than entering the market organically?
+
+Stakeholder: The attraction is speed. An acquisition might give us local market access, established customer or provider relationships, regulatory know-how, distribution, or specialist capabilities that would take years to build. But we have not yet shown which of those advantages the target genuinely owns or whether we could achieve the same objective through a partnership.
+
+Interviewer: Which healthcare market assumptions are most important to test?
+
+Stakeholder: We need to understand the size and growth of the specific market segments, how care or product purchasing works, who makes the buying decision, what alternatives customers use, and what barriers limit adoption. A broad statement that healthcare demand is growing is not enough to justify this target or its valuation.
+
+Interviewer: What would count as strategic value beyond revenue growth?
+
+Stakeholder: Potentially, better access to customers, a differentiated product or service, stronger local capabilities, improved reach, or a capability that complements our existing portfolio. We should define measurable outcomes and avoid counting the same benefit under both revenue growth and synergy.
+
+Interviewer: What would make you pause the deal?
+
+Stakeholder: If the rationale depends on a market-entry advantage that is not exclusive, if required approvals or access channels are uncertain, or if the target's reputation and capabilities do not transfer to our intended markets. I would also pause if we cannot explain why acquisition is better than partnership or organic entry.
+
+Interviewer: What evidence do you need before the executive committee decides?
+
+Stakeholder: A source-traced sector scan, a target-specific competitor and market map, validated customer evidence, a realistic entry timeline, an assessment of alternatives, and a downside case. 
+We should show what we know, what management claims, and what remains untested.
+
+
+Interview 02 — Healthcare Commercial / Market Access Director
+
+Interview objective: Demand, customer behaviour, payer/provider access and competitive dynamics
+
+Transcript status: Fictional practice transcript created for the hackathon; statements require validation.
+
+Interviewer: Who actually decides whether the target's offering is adopted in the new market?
+
+Stakeholder: That depends on the business model. For a provider service, clinicians, hospital administrators, procurement teams and patients may influence adoption. For a medicine or device, clinicians, hospital procurement, payers and regulators may all matter. For a health-tech platform, the buyer may be an IT or operations leader, but clinicians and data-protection teams can still block implementation. We need to map the actual decision chain for this target.
+
+Interviewer: What could prevent the target from winning customers even if demand is growing?
+
+Stakeholder: Established supplier relationships, tender rules, reimbursement or budget constraints, clinical preferences, switching costs, evidence requirements, service coverage, and local trust. Market growth does not automatically become revenue for one company.
+
+Interviewer: How should we test the target's competitive position?
+
+Stakeholder: Compare direct competitors and substitutes on the factors buyers care about: clinical or service evidence, quality, price, availability, customer support, integration effort, reimbursement status where relevant, and local reach. We should validate claims with customer references and independent sources rather than relying only on the target's pitch deck.
+
+Interviewer: What commercial information would you request?
+
+Stakeholder: Customer-level revenue, concentration, contract duration and renewal dates, lost and won bids, pipeline conversion, pricing history, complaints, distributor or channel agreements, and reasons customers switch. If payer or reimbursement exposure exists, request payer mix, reimbursement rates, denial patterns and contract terms.
+
+Interviewer: What is your biggest concern about the acquisition thesis?
+
+Stakeholder: The team may assume that existing relationships automatically travel across borders or that our current sales force can cross-sell immediately. We need to test whether the target's contracts permit a change of control, whether customers will stay, and whether our offer fits local purchasing and care pathways.
+
+Interview 03 — Chief Medical Officer / Clinical & Product Quality Lead
+Interview objective: Clinical value, patient safety, quality evidence and trust
+Transcript status: Fictional practice transcript created for the hackathon; statements require validation.
+Interviewer: What evidence tells us that the target's product or service delivers meaningful healthcare value?
+Stakeholder: We need evidence appropriate to the target. That could include clinical studies, real-world outcomes, safety and performance data, quality indicators, patient experience, service reliability, or validated product claims. Marketing material and testimonials alone do not establish clinical benefit.
+Interviewer: What patient-safety or quality signals should the deal team examine?
+Stakeholder: Complaints, adverse events or safety incidents where applicable, recalls or field actions, repeat defects, infection-control or care-quality issues if it operates care services, corrective and preventive actions, audit findings, and whether issues were closed effectively. The precise list depends on what the target actually does.
+Interviewer: Could the acquisition create a risk to continuity of care or product availability?
+Stakeholder: Yes. A change in ownership, supplier, system, service location, or clinical process can affect availability or continuity. We should identify critical products or services, vulnerable dependencies, escalation procedures, and the plan for maintaining safe operations during integration.
+Interviewer: What would concern you if management says the target is 'high quality'?
+Stakeholder: I would ask how quality is measured, over what period, against which comparator, and who independently verified the data. We should look for trends and definitions, not a single favourable metric. We also need to know whether the data covers all relevant sites, products, or patient groups.
+Interviewer: What clinical or quality evidence should be a decision gate?
+Stakeholder: Any unresolved material safety concern, repeated serious quality finding, unreliable clinical claims, or uncosted remediation plan should be escalated before commitment. I would want an independent review and clear accountability for any remediation.
+
+Interview 04 — Regulatory & Healthcare Compliance Director
+Interview objective: Market authorisations, licences, inspections and conduct risks
+Transcript status: Fictional practice transcript created for the hackathon; statements require validation.
+Interviewer: What must we know about regulatory permission to operate in the target markets?
+Stakeholder: First, list the target's actual products and services and every country in which it operates or plans to enter. Then map applicable licences, registrations, authorisations, facility approvals, change-of-control notifications, local representation requirements, and the time and cost to obtain anything missing. We must not assume one country's approval works everywhere.
+Interviewer: What regulatory history would you want to review?
+Stakeholder: Inspection reports, regulator correspondence, warnings or sanctions, licence conditions, product recalls or safety actions where relevant, pending applications, open commitments, and evidence that previous findings were remediated. We should reconcile management's answers with original records.
+Interviewer: What healthcare compliance risks could affect value?
+Stakeholder: Depending on the business, risks may include inappropriate interactions with healthcare professionals, promotional claims, tender conduct, conflicts of interest, referral arrangements, billing or reimbursement practices, third-party distributors, and anti-bribery controls. Legal specialists should determine which rules apply in each jurisdiction.
+Interviewer: How could regulatory issues affect the market-entry forecast?
+Stakeholder: Approval timelines, evidence requirements, local clinical or technical requirements, inspections, or restrictions on promotion and distribution may delay launch or increase costs. The forecast should model the relevant pathway, not simply assume a launch date.
+Interviewer: What would be a red flag before investment approval?
+Stakeholder: An unclear licence or registration status, material undisclosed regulator correspondence, serious unresolved quality findings, evidence of improper conduct, or a remediation requirement with no credible owner, cost, or timeline. These issues need legal and regulatory review before the team recommends proceeding.
+
+Interview 05 — CIO / Health Data & Cybersecurity Lead
+Interview objective: Health information, interoperability, cybersecurity and integration feasibility
+Transcript status: Fictional practice transcript created for the hackathon; statements require validation.
+Interviewer: What technology capabilities are critical to evaluate in a healthcare acquisition?
+Stakeholder: We need to understand the systems that support the target's actual business: clinical or patient-management systems if it provides care, laboratory or device systems if relevant, product and quality systems, customer platforms, data infrastructure, and core enterprise applications. We should identify which systems are essential to safe service and which are merely administrative.
+Interviewer: What health-data questions should be answered?
+Stakeholder: What personal or health data is collected, why it is used, where it is stored, who can access it, how long it is retained, and whether it is shared across borders or with vendors. We need to examine consent or other applicable legal grounds, contractual restrictions, security controls and the target's privacy obligations in each market.
+Interviewer: What cyber evidence should be requested?
+Stakeholder: A system and data-flow inventory, access-control design, incident and breach history, penetration-test findings, patching status, backup and recovery tests, third-party dependencies, and evidence that critical findings were remediated. A policy document alone does not prove controls work.
+Interviewer: Could technology integration create healthcare-specific risks?
+Stakeholder: Yes. Poor migration or interoperability can interrupt workflows, make records unavailable, break interfaces, or compromise data integrity. If systems support clinical decisions, regulated products, or care delivery, the team needs an appropriate validation and continuity plan before changing them.
+Interviewer: What should be costed in the acquisition case?
+Stakeholder: Cyber remediation, licence and vendor costs, data migration, interoperability, system validation where required, resilience improvements, and the time needed to integrate or replace platforms. Any AI opportunity should be treated as a hypothesis until data rights, workflow fit, safety, oversight and measurable benefits are established.
+
+Interview 06 — CFO / Healthcare Deal Finance Lead
+Interview objective: Revenue quality, reimbursement or payer exposure, valuation and downside
+Transcript status: Fictional practice transcript created for the hackathon; statements require validation.
+Interviewer: Which financial metrics require healthcare-specific scrutiny?
+Stakeholder: That depends on the target. If revenue depends on payers, insurers or public reimbursement, examine payer mix, rates, denials, claims ageing and collection cycles. If revenue depends on products, examine price-volume mix, channel margins, returns and rebates where relevant. If it operates facilities or services, examine utilisation, staffing costs, case mix where relevant, and site-level profitability.
+Interviewer: How do we check whether reported revenue is sustainable?
+Stakeholder: Reconcile reported revenue to contracts, invoices, cash collections and underlying activity. Examine customer or payer concentration, renewals, price changes, one-off items, disputed claims, rebates, returns, and dependence on a small number of clinicians, distributors or accounts.
+Interviewer: What could make the acquisition more expensive than the headline price suggests?
+Stakeholder: Deferred capital expenditure, quality or regulatory remediation, technology and cyber upgrades, working-capital needs, product or service continuity measures, retention packages, integration costs, and liabilities that are not obvious from the headline valuation. We need to quantify these where possible and disclose what is unknown.
+Interviewer: What downside cases should the investment model include?
+Stakeholder: Slower market entry, delayed approvals, lower adoption, reimbursement or price pressure where applicable, loss of key customers, supply interruption, higher staffing or integration costs, and remediation of quality or cyber issues. The team should show the impact on cash flow and returns rather than just describe risks.
+Interviewer: What would you need to support a recommendation?
+Stakeholder: Independent quality-of-earnings work, reconciled historical financials, a transparent forecast, a costed synergy register, sensitivity analysis, and explicit investment thresholds supplied by the client. If critical assumptions cannot be validated, the recommendation may need to be conditional or the decision paused.
+
+Interview 07 — COO / Supply Chain & Service Delivery Lead
+
+Interview objective: Healthcare service continuity, critical supply, operating capacity and scale
+
+Transcript status: Fictional practice transcript created for the hackathon; statements require validation.
+
+Interviewer: Can the target scale to support the expansion plan?
+
+Stakeholder: We need to test actual capacity, bottlenecks, workforce availability, service coverage, supplier concentration, quality performance and the investment needed to handle more volume. A market forecast does not tell us whether the target can safely deliver the extra demand.
+
+Interviewer: Which supply-chain risks are especially important in this case?
+
+Stakeholder: Identify single-source suppliers, long lead times, cold-chain or special storage needs if relevant, product traceability, quality-controlled manufacturing or distribution if relevant, and contingency stock or alternative suppliers. If the target is a care provider rather than a product company, the equivalent focus is staffing, critical services, equipment and continuity arrangements.
+
+Interviewer: What operational data would help test management's claims?
+
+Stakeholder: On-time and in-full delivery where relevant, stockouts, service availability, backlog, downtime, complaints, quality incidents, capacity utilisation, staff vacancy and turnover, supplier performance, and site-level costs. Definitions and historical trends matter more than a one-off snapshot.
+
+Interviewer: What could go wrong during integration?
+
+Stakeholder: Changing suppliers, systems, processes or leadership too quickly can disrupt availability, care workflows, service levels or quality. We should define what must remain stable, which processes can be integrated, and who has authority to stop a change if safety or continuity is threatened.
+
+Interviewer: What should be ready before closing or Day 1?
+
+Stakeholder: A critical-operations map, business continuity plan, escalation contacts, supplier and service dependency list, clear ownership of quality issues, and a phased integration roadmap. The first 100 days should have measurable milestones and explicit safeguards for customers, patients or product users as relevant.
+
+Interview 08 — Country / Regional Market Lead
+Interview objective: Local market reality, trust, access channels and execution constraints
+Transcript status: Fictional practice transcript created for the hackathon; statements require validation.
+Interviewer: What might a global team misunderstand about the new healthcare market?
+Stakeholder: The formal market size may hide differences in purchasing, affordability, reimbursement, local approvals, tender timing, clinical practice, distribution and trust. We need to examine the specific countries and customer segments in the acquisition thesis rather than treat healthcare as one uniform global market.
+Interviewer: How do we know the target has a real local advantage?
+Stakeholder: We should validate customer references, contract durability, service coverage, local talent, distribution reach, regulatory experience and reputation. If relationships depend on one founder or a few individuals, we need to know whether those people will remain and whether the relationships are institutional or personal.
+Interviewer: What could delay entry even after an acquisition closes?
+Stakeholder: Local registration or licensing steps, procurement cycles, reimbursement decisions where applicable, onboarding requirements, customer approvals, language and service expectations, or gaps in local support. These should be built into the launch timeline and forecast.
+Interviewer: What would you ask customers or local partners directly?
+Stakeholder: Why do they choose the target today? What would make them leave? How do they judge quality and reliability? Who approves a new supplier? What evidence is required? Would a change of ownership affect trust, contracts, service, or purchasing decisions?
+Interviewer: What is your key caution to the executive committee?
+Stakeholder: Do not equate a large healthcare market with an accessible market. The team should show where the target has a credible route to adoption, what local barriers remain, and which assumptions are supported by customer evidence rather than management optimism.
+
+Follow-up evidence requests
+
+● Request the original supporting document, dataset, contract, audit record, or source behind the statement.
+
+● Ask for the country, product/service, time period, population or customer segment to which the claim applies.
+
+● Ask what evidence could contradict the stakeholder's view and who else should be interviewed.
+
